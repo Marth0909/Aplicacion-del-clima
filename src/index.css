@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bitter:wght@500&family=Kanit&family=Lato&family=Quicksand:wght@300&family=Roboto+Flex:opsz,wght@8..144,200&family=Roboto+Serif:opsz,wght@8..144,100;8..144,300&family=Roboto:wght@100&display=swap');
+
+/* RESET*/
+
+*{
+  box-sizing: border-box;
+}
+html{
+  font-family: 'Bitter', serif;
+}
+
+body {
+  margin: 0;
+}
+h1,h2,h3,p, ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul{
+  list-style: none;
+  padding-left: 0;
+  
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+/*el button no recibe tipo de letra,usamos inherit para que l oagregue del padre*/
+button, input {
+  font-family: inherit;
+}
+
+button{
+  cursor: pointer;
+}

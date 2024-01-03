@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  /* background-image: url('	https://img.freepik.com/fotos-premium/fondo-solead…uen-dia-clima-calido-tamano-grande_638259-109.jpg'); */
+  background-image: url('	https://img.freepik.com/fotos-premium/hermoso-ciel…uesta-sol-nubes-color-naranja-azul_53476-1334.jpg');
+  background-position: center;
+  background-size: cover;
+
+}
